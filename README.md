@@ -1,5 +1,6 @@
             General Info
 Project Name: Vehicle Maintenance Tracker
+
             Elevator Pitch:
 A smart companion for vehicle owners to record maintenance and repairs and ensure your vehicles stay in top condition.
 
