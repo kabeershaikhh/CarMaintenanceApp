@@ -45,4 +45,10 @@ The app is developed using:
 •	Frameworks: Android Jetpack Libraries (Room, LiveData, ViewModel, WorkManager)
 •	Platforms: Android Studio, Gradle
 •	Database: Room (SQLite under the hood)
+            UI:
+            ![WhatsApp Image 2025-01-29 at 14 35 18_e3081f1c](https://github.com/user-attachments/assets/20bb018f-5fa1-43c5-a403-14793f12e0c0)
+            ![WhatsApp Image 2025-01-29 at 14 35 18_d023e1ff](https://github.com/user-attachments/assets/ca2a902b-c48a-408d-9a71-09f6920698eb)
+            ![WhatsApp Image 2025-01-29 at 14 35 18_6563d76e](https://github.com/user-attachments/assets/b5c70192-ed17-4405-b1c5-ccc87becb189)
+            ![WhatsApp Image 2025-01-29 at 14 35 18_904e0561](https://github.com/user-attachments/assets/721ef139-b62d-45af-a979-0f03b18a286f)
+
 
