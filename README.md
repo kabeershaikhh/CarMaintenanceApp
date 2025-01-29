@@ -48,5 +48,9 @@ The app is developed using:
             UI:
            
 <img src="https://github.com/user-attachments/assets/911c3c40-de38-4855-ad17-492a468a4296" width="150">
+![1](https://github.com/user-attachments/assets/6426e4c6-ef19-41d6-a719-5990d5d1b6fb)
 
+![WhatsApp Image 2025-01-29 at 14 35 18_332d07ad](https://github.com/user-attachments/assets/6a508911-7f9a-4aaa-b536-aaa49bb9c0fa)
+
+![3](https://github.com/user-attachments/assets/9cf8a5b5-bb5c-477c-9a03-8e42d0138dd9)
 
