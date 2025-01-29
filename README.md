@@ -47,6 +47,6 @@ The app is developed using:
 •	Database: Room (SQLite under the hood)
             UI:
            
-![2](https://github.com/user-attachments/assets/911c3c40-de38-4855-ad17-492a468a4296 | width=30)
+![2](https://github.com/user-attachments/assets/911c3c40-de38-4855-ad17-492a468a4296)| width =40
 
 
